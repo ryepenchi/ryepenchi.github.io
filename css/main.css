@@ -65,5 +65,7 @@ html {
     box-shadow: 0 0 1.5rem gray;
   }
   .logo {
-    height: 42px;
+    height: 70px;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
   }
